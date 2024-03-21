@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GigiAvila.
 - 👀 I’m interested in web development and digital design.
-- 🌱 I’m currently on the journey to become a Full Stack Developer.
+- 🌱 Recently became a Full Stack Developer, on my way to creating great things !
 - 💞️ I’m looking to collaborate on open-source projects related to front-end development and to be part of challenging projects for small companies or startups.
 - 📫 How to reach me: [gisela.avila.dev@gmail.com](mailto:gisela.avila.dev@gmail.com), [LinkedIn](https://www.linkedin.com/in/gisela-avila/)
 - 💻 Checkout my portfolio: https://giselaavila.com
